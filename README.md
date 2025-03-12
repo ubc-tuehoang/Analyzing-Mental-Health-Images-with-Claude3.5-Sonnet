@@ -6,6 +6,10 @@ Peeking Beyond the Canvas: Analyzing Mental Health through Images with Claude 3.
 - Strive for excellence
 - Explore together & unlock the world's knowledge
 
+  - *designed by Tuệ Hoàng, eng.* 
+  - *tue.hoang@ubc.ca*
+
+
 ## Peeking Beyond the Canvas: Analyzing Mental Health through Images with Claude 3.5 Sonnet
 
 
